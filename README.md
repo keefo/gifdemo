@@ -1,4 +1,4 @@
 gifdemo
 =======
 
-<iframe width="1518" height="398" src="./demo.mov" frameborder="0" ></iframe>
+[![IMAGE cat](https://github.com/keefo/gifdemo/blob/master/cat.gif)](https://github.com/keefo/gifdemo/blob/master/cat.gif)
